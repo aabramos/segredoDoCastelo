@@ -1,0 +1,54 @@
+Changelog:
+22/09/2017
+- Versão 1.0.6
+- Testado na plataforma Windows 10 64-bits Creators Update
+
+14/10/2014
+- Versão 1.0.5
+- Corrigido erro ao tentar rodar o jogo em máquinas 32-bit
+- LEIAME.txt atualizado
+- Trocado JRE embutido pelo JPortable
+- Testado na plataforma Windows 8 64-bits
+- Testado na plataforma Windows 8.1 64-bits
+
+24/09/2014
+- Versão 1.0.4
+- Corrigido erro de instalação do jogo
+- Acrescentado link para página do jogo
+- Acrescentado LEIAME.txt
+- Acrecentado JRE embutido para melhor compatibilidade
+
+23/09/2014
+- Versão 1.0.3
+- Corrigido erro de compatibilidade nas versões mais recentes do Java
+- Corrigido erro de compatibilidade do JavaFX
+- Corrigidas as falas erradas da fantasma Sara
+- Acrescentadas falas para melhorar o contexto do jogo
+- Corrigido erro de sincronia com a música do nível
+- Corrigido erro do link de download
+- Adicionado instalador em PT-BR e PT
+
+29/06/2013:
+
+- Versão 1.0.2
+- Correção de um erro no texto da fala
+- Correção de um bug que impede a reprodução de um som ao abrir portas 
+- Diminuída a quantidade de inimigos a partir da metade do jogo
+- Correção em um símbolo em LIBRAS "esquerda" que está traduzido incorretamente
+- Corrigido textos de executável quando exibida uma janela de erro
+- Correção de erro no texto de aviso da falta de Java
+
+29/06/2013:
+
+- Versão 1.0.1
+- Aumentada ligeiramente a frequência de geração de baús
+- Diminuído o tempo do loop da música do nível
+- Diminuída a quantidade de morcegos que o vampiro solta para 4
+- Diminuída a quantidade de morcegos que os baús soltam para 5
+- Diminuída a quantidade de fantasmas que os baús soltam para 4
+- Diminuída a quantidade de vampiros que os baús soltam para 4
+- A música do menu agora começa ao iniciar o jogo
+
+25/06/2013:
+
+- Versão 1.0.0
