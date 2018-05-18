@@ -1,0 +1,51 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Adriano\Desktop\O Segredo do Castelo.jar</jar>
+  <outfile>C:\Users\Adriano\Desktop\O Segredo do Castelo.exe</outfile>
+  <errTitle>Erro:</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Adriano\workspace\Segredo do Castelo\Launch4j\icon.ico</icon>
+  <classPath>
+    <mainClass>jogo.Main</mainClass>
+    <cp>..\..\..\Desktop\O Segredo do Castelo.jar</cp>
+  </classPath>
+  <jre>
+    <path>C:\Users\Adriano\workspace\Segredo do Castelo\jre1.7.0_25</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.7.0_21</minVersion>
+    <maxVersion>1.7.0_25</maxVersion>
+    <jdkPreference>jdkOnly</jdkPreference>
+  </jre>
+  <splash>
+    <file>C:\Users\Adriano\workspace\Segredo do Castelo\Launch4j\splash.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>1.0.3.0</fileVersion>
+    <txtFileVersion>1.0.3</txtFileVersion>
+    <fileDescription>Jogo interativo para aprendizado de LIBRAS e Língua Portuguesa</fileDescription>
+    <copyright>(c)Adriano Alberto Borges Ramos, Nitay das Martins de Souza, Mojang AB</copyright>
+    <productVersion>1.0.3.0</productVersion>
+    <txtProductVersion>1.0.3</txtProductVersion>
+    <productName>O Segredo do Castelo</productName>
+    <companyName>Universidade Presbiteriana Mackenzie</companyName>
+    <internalName>OSegredoDoCastelo</internalName>
+    <originalFilename>O Segredo do Castelo.exe</originalFilename>
+  </versionInfo>
+  <messages>
+    <startupErr>Um erro ocorreu ao inicializar a aplicação.</startupErr>
+    <bundledJreErr>Esta aplicação foi configurada para usar um pacote de Java interno, mas o runtime está ausente ou corrompido.</bundledJreErr>
+    <jreVersionErr>A seguinte versão do Java é exigida para executar esta aplicação:</jreVersionErr>
+    <launcherErr>O registro refere-se a uma instalação não existente da Java Runtime Environment ou o programa está corrompido.</launcherErr>
+    <instanceAlreadyExistsMsg>Uma instância desta aplicação já está em execução.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
