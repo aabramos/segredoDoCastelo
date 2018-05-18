@@ -1,6 +1,6 @@
 O Segredo do Castelo
 
-O Segredo do Castelo é um Jogo Eletrônico Interativo para aprendizagem de LIBRAS e de Português. O jogo foi desenvolvido em 2012/2013 pelos alunos Adriano Alberto Borges Ramos e Nitay das Martins de Souza durante o Trabalho de Graduação Interdisciplinar (TGI) do curso de Ciência da Computação da Universidade Presbiteriana Mackenzie (UPM). 
+O Segredo do Castelo é um Jogo Eletrônico Interativo para aprendizagem de LIBRAS e de Português baseado no Catacomb Snatch (https://github.com/Maescool/Catacomb-Snatch). O jogo foi desenvolvido em 2012/2013 pelos alunos Adriano Alberto Borges Ramos e Nitay das Martins de Souza durante o Trabalho de Graduação Interdisciplinar (TGI) do curso de Ciência da Computação da Universidade Presbiteriana Mackenzie (UPM). 
 
 O jogo obteve destaque em:
 
