@@ -24,4 +24,12 @@ Ajude Cesar, um professor que ficou preso ao explorar um castelo abandonado. rev
         - Dois finais diferentes que revelarão as atitudes boas e ruins do professor;
         - 18 gestos, 4 letras do alfabeto em LIBRAS, 2 artigos e 10 frases em Português.
         
-Mais informações: http://teacherivy.com/suporte/blog/jogo-educativo-o-segredo-do-castelo
+O jogo foi publicado na Revista Trilha Digital, conforme o link abaixo: 
+[Desenvolvimento de um jogo digital interativo para apoiar a aprendizagem de libras e da língua portuguesa](https://editorarevistas.mackenzie.br/index.php/TDig/article/view/8205)
+
+Também foi usado como fonte de pesquisa para diversos outros artigos:
+https://journals-sol.sbc.org.br/index.php/rbie/article/view/2933
+https://sol.sbc.org.br/index.php/sbgames/article/view/32370
+https://portaltainacan-clone.funarte.gov.br/periodicos/desenvolvimento-de-um-jogo-digital-interativo-para-apoiar-a-aprendizagem-de-libras-e-da-lingua-portuguesa-2/
+https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/view/5096
+https://www.sciencedirect.com/science/article/abs/pii/S0747563218305892?via%3Dihub
